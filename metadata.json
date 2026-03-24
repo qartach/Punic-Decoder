@@ -1,0 +1,7 @@
+{
+  "name": "Qartach - Punic Decoder",
+  "description": "AI-powered decoder and translator for ancient Punic and Phoenician inscriptions with Arabic audio synthesis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
